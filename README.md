@@ -2,6 +2,10 @@
 
 This app uses modern AI models to answer grammatical and syntactic questions about Latin and Greek passages. It's designed for use in research and pedagogy, especially in classical language instruction.
 
+## Cite As
+
+E.Bozia, A. Barber, and T. Cerniglia (2026), "The Classical Language AI Query Assistant", In Proceedings of the Historical Languages and AI International Conference, March 5-6, 2026, Humboldt University, Digital Classics Book Series, Propylaeum: Heidelberg.  ISSN (Print): 2556-7890
+
 ## Features
 - Supports Syntax and Morphology question sets
 - Pulls questions live from shared Google Docs
